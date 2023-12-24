@@ -5,7 +5,7 @@ import Course.*;
 import Attendance.*;
 import Academic.*;
 
-public class Assignment_OOP {
+public class App {
 
     static int category = 0; // 1 for student and 2 for Professor/Faculty
     static String name; //Rushil

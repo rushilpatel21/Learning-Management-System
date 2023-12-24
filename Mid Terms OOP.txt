@@ -1,0 +1,4 @@
+Mid Terms OOP,OOP
+What is OOP?,Object Oriented Programming,Data Structre and Algorithm,Java,C++,a
+Which of the following is not a principle of OOP,Inheritance,Polymorphism,Abstraction,Selection Sort,d
+Is Java a Programming Language,Yes,No,Not sure,Maybe,a

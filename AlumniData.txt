@@ -1,0 +1,10 @@
+Rajesh Kumar,30,Male,Computer Science,19BCE001,2019,Software Engineer,Tech Solutions,+91 9876543210,rajesh.kumar@email.com,Bangalore,India,Delhi,India
+Priya Sharma,28,Female,Electrical Engineering,19BEE002,2020,Data Analyst,Data Insights,+91 9876543211,priya.sharma@email.com,Mumbai,India,Mumbai,India
+Amit Singh,31,Male,Civil Engineering,19BCE003,2018,Structural Engineer,BuildTech,+91 9876543212,amit.singh@email.com,Delhi,India,Lucknow,India
+Neha Verma,27,Female,Mechanical Engineering,19BME004,2021,Mechanical Engineer,MechCorp,+91 9876543213,neha.verma@email.com,Pune,India,Pune,India
+Ankit Patel,29,Male,Computer Science,19BCE005,2020,Software Developer,CodeWave,+91 9876543214,ankit.patel@email.com,Ahmedabad,India,Surat,India
+Sneha Rathi,26,Female,Electrical Engineering,19BEE006,2022,Electrical Engineer,PowerGen,+91 9876543215,sneha.rathi@email.com,Hyderabad,India,Bangalore,India
+Vikas Mishra,30,Male,Civil Engineering,19BCE007,2019,Structural Engineer,BuildTech,+91 9876543216,vikas.mishra@email.com,Mumbai,India,Lucknow,India
+Nisha Gupta,28,Female,Mechanical Engineering,19BME008,2020,Mechanical Engineer,MechCorp,+91 9876543217,nisha.gupta@email.com,Kolkata,India,Kolkata,India
+Arun Choudhary,27,Male,Computer Science,19BCE009,2022,Software Engineer,IT Innovations,+91 9876543218,arun.choudhary@email.com,Chennai,India,Delhi,India
+Mala Sinha,29,Female,Electronics Engineering,19BEI010,2021,Electronics Engineer,ElectraTech,+91 9876543219,mala.sinha@email.com,Delhi,India,Kolkata,India

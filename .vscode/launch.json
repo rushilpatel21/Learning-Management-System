@@ -1,0 +1,115 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Student_report",
+      "request": "launch",
+      "mainClass": "Attendance.Student_report",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Student_academic",
+      "request": "launch",
+      "mainClass": "Academic.Student_academic",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Student_academic",
+      "request": "launch",
+      "mainClass": "Attendance.Student_academic",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Student_Quiz",
+      "request": "launch",
+      "mainClass": "Course.Student_Quiz",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Quiz",
+      "request": "launch",
+      "mainClass": "Course.Quiz",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Academic_Database",
+      "request": "launch",
+      "mainClass": "Academic.Academic_Database",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Attendance_Database",
+      "request": "launch",
+      "mainClass": "Attendance.Attendance_Database",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Change_Password",
+      "request": "launch",
+      "mainClass": "Database_User.Change_Password",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Enroll",
+      "request": "launch",
+      "mainClass": "Course.Enroll",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Manage_Courses",
+      "request": "launch",
+      "mainClass": "Course.Manage_Courses",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Signup",
+      "request": "launch",
+      "mainClass": "Database_User.Signup",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Alumni_Database",
+      "request": "launch",
+      "mainClass": "Database_Alumni.Alumni_Database",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "type": "java",
+      "name": "Assignment_OOP",
+      "request": "launch",
+      "mainClass": "Assignment_OOP",
+      "projectName": "Assignment_OOP_229f154"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

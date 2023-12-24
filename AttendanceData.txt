@@ -1,0 +1,3 @@
+22bce308,DSA,100
+22BCE308,Maths,95
+22BCE309,English,95
